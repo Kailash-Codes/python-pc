@@ -8,3 +8,4 @@ other_letters = str(string[1:6])
 small_others = other_letters.lower()
 print(capital_first+small_others)
 
+#STUDENT CLASS-PROPERTY FUNCTION
